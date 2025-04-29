@@ -10,14 +10,14 @@ Automatic network detection by wallet address.
 Automatic airdrop list update every 7 hours.
 
 Support for popular networks:
-Ethereum - BeraChain - Starknet
-Cosmos - ZetaChain - Sui
-Aptos - Manta - Stellar
-Cardano - FTM - TON
-BTC Ordinals - Cronos - Hedera
-BTC Atomical - Optimism - Uniswap
-Arbitrum - Polygon - Polkadot
-Base - BNB - Substrace
-Avalanche - zkSync - Auro
+Ethereum  BeraChain  Starknet
+Cosmos  ZetaChain  Sui
+Aptos  Manta  Stellar
+Cardano  FTM  TON
+BTC Ordinals  Cronos  Hedera
+BTC Atomical  Optimism  Uniswap
+Arbitrum  Polygon  Polkadot
+Base  BNB  Substrace
+Avalanche  zkSync  Auro
 
 And more than 62+ more networks.
