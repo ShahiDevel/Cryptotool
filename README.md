@@ -12,7 +12,7 @@ Automatic airdrop list update every 7 hours.
 Support for popular networks:
 Ethereum  BeraChain  Starknet
 Cosmos  ZetaChain  Sui
-Aptos  Manta  Stellar
+Aptos  Manta  Solana
 Cardano  FTM  TON
 BTC Ordinals  Cronos  Hedera
 BTC Atomical  Optimism  Uniswap
